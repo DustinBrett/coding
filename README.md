@@ -32,6 +32,12 @@
 - [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
 - [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A)
 
+# Curriculums
+
+- [Lighthouse Labs](https://www.lighthouselabs.ca/web-development-bootcamp-curriculum.pdf)
+- [Brainstation](https://brainstation.io/course-package/web-development-immersive/vancouver)
+- [RED Academy](https://cdn2.hubspot.net/hubfs/2206825/aCourse%20Outlines/All%20Old%20Outlines/Toronto%20Course%20Outlines/FT/WDFT_Can_Overview.pdf)
+
 # Concepts
 
 - [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
