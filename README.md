@@ -136,6 +136,7 @@
     - [Events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events) (onclick, bubbling)
     - [Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) (then, catch, finally, await, async)
     - [RegExp](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
+    - [Local Storage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
 - [TypeScript](https://www.typescriptlang.org/)
 - [jQuery](https://jquery.com/)
     - [Underscore](https://underscorejs.org/)/[Lodash](https://lodash.com/)
@@ -162,6 +163,7 @@
     - [Box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model) (padding, margin, width, height, border, background)
     - [Units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units) (absolute, relative)
     - [Layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout) (float, flexbox, grid, align)
+    - [Fonts](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Fonts)
 - [BEM](http://getbem.com/introduction/)
 
 # HTML
@@ -178,6 +180,11 @@
 - [HTTPS](https://en.wikipedia.org/wiki/HTTPS) ([Headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers))
 - [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 - [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
+- [URL](https://developer.mozilla.org/en-US/docs/Web/API/URL)
+    - [Query parameters](https://en.wikipedia.org/wiki/Query_string)
+    - [Anchor link](https://en.wikipedia.org/wiki/Fragment_identifier)
+- [Cookies](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
+- [Favicon](https://en.wikipedia.org/wiki/Favicon)
 
 # Eventual Topics
 
@@ -201,3 +208,5 @@
 - PWA's
 - Electron
 - Web Sockets
+- Sentry
+- Google Analytics
