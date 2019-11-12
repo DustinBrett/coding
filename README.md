@@ -135,6 +135,7 @@
     - [Loops](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code) (forEach, for, of, in)
     - [Events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events) (onclick, bubbling)
     - [Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) (then, catch, finally, await, async)
+    - [RegExp](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
 - [TypeScript](https://www.typescriptlang.org/)
 - [jQuery](https://jquery.com/)
     - [Underscore](https://underscorejs.org/)/[Lodash](https://lodash.com/)
@@ -167,7 +168,9 @@
 
 - [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 - [Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+    - head, body, title, meta, link, script, a, img, h1, div, span, p, br, ul, iframe, table, button, input, form, label, select, option, textarea, strong/em/b
 - [HTML5](https://en.wikipedia.org/wiki/HTML5) ([Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics#Semantics_in_HTML))
+    - footer, header, nav, main, article, section, aside, figure, video, audio
 
 # Web
 
@@ -197,3 +200,4 @@
 - Unit Testing (Jest)
 - PWA's
 - Electron
+- Web Sockets
