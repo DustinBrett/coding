@@ -41,6 +41,10 @@
 - [SDLC](https://en.wikipedia.org/wiki/Systems_development_life_cycle)
 - [TDD](https://en.wikipedia.org/wiki/Test-driven_development)
 - [Agile](https://en.wikipedia.org/wiki/Agile_software_development) ([Scrum](https://www.scrum.org/resources/what-is-scrum), [Kanban](https://kanbanize.com/kanban-resources/getting-started/what-is-kanban/))
+- [Naming](https://en.wikipedia.org/wiki/Naming_convention_(programming))
+    - [Hungarian notation](https://en.wikipedia.org/wiki/Hungarian_notation)
+    - [Camel case](https://en.wikipedia.org/wiki/Camel_case)
+    - [Snake case](https://en.wikipedia.org/wiki/Snake_case)
 
 # Tools
 
@@ -125,6 +129,8 @@
     - [Conditionals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals) ([ternary](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator), else if, else)
     - [Data Types](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures) (objects, arrays, numbers, strings)
         - [Array Methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array#Instance_methods) (concat, find, forEach, includes, push, splice, each, map, filter, reduce)
+    - [Scope](https://developer.mozilla.org/en-US/docs/Glossary/Scope)
+    - [Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
     - [Functions](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions) (arrow, this, return)
     - [Loops](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code) (forEach, for, of, in)
     - [Events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events) (onclick, bubbling)
@@ -146,6 +152,7 @@
 # CSS
 
 - [Bootstrap](https://getbootstrap.com/)
+    - [Semantic UI](https://semantic-ui.com/)
 - [SASS](https://sass-lang.com/)
 - [Basics](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks)
     - [Cascade](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance)
@@ -154,6 +161,7 @@
     - [Box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model) (padding, margin, width, height, border, background)
     - [Units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units) (absolute, relative)
     - [Layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout) (float, flexbox, grid, align)
+- [BEM](http://getbem.com/introduction/)
 
 # HTML
 
@@ -176,6 +184,7 @@
 - CI/CD
 - SEO
 - Webpack
+- Gulp
 - Image types (GIF, JPG, PNG, SVG, WEBP)
 - Image compressions (lossy, lossless)
 - DNS, Domains (WHOIS)
@@ -185,3 +194,6 @@
 - Docker
 - AWS
     - [Free tier](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc)
+- Unit Testing (Jest)
+- PWA's
+- Electron
