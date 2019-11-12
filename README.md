@@ -12,6 +12,26 @@
 
 - [Frontend Developer](https://roadmap.sh/frontend)
 
+# Books
+
+- [The Pragmatic Programmer](https://www.amazon.ca/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052)
+- [Clean Code](https://www.amazon.ca/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+- [Don't Make Me Think](https://www.amazon.ca/Dont-Make-Think-Revisited-Usability/dp/0321965515)
+
+# Community
+
+- [DEV.to](https://dev.to/)
+- [/r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/)
+- [Coding Horror](https://blog.codinghorror.com/)
+
+# YouTube
+
+- [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
+- [Engineer Man](https://www.youtube.com/channel/UCrUL8K81R4VBzm-KOYwrcxQ)
+- [Stefan Mischook](https://www.youtube.com/channel/UCyUBW72KU30dfAYWLVNZO8Q)
+- [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
+- [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A)
+
 # Concepts
 
 - [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
