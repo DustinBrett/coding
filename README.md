@@ -2,6 +2,9 @@
 
 - Create a UI
 - Communicate with an API
+    - [City of Vancouver Data Portal](https://opendata.vancouver.ca/pages/home/)
+    - [Eventbrite](https://www.eventbrite.com/platform/api)
+    - [Meetup](https://www.meetup.com/meetup_api/)
 - Build an interactive website
 - Make it responsive
 
@@ -17,43 +20,44 @@
 - [Responsive](https://en.wikipedia.org/wiki/Responsive_web_design)
 - [SDLC](https://en.wikipedia.org/wiki/Systems_development_life_cycle)
 - [TDD](https://en.wikipedia.org/wiki/Test-driven_development)
-- [Agile](https://en.wikipedia.org/wiki/Agile_software_development) (Scrum, Kanban)
+- [Agile](https://en.wikipedia.org/wiki/Agile_software_development) ([Scrum](https://www.scrum.org/resources/what-is-scrum), [Kanban](https://kanbanize.com/kanban-resources/getting-started/what-is-kanban/))
 
 # Tools
 
 ## [Visual Studio Code](https://code.visualstudio.com/)
 
-> #### Integrated Development Environment
+> #### [Integrated Development Environment](https://en.wikipedia.org/wiki/Integrated_development_environment)
 
 ### Tips
-- Search all files (Ctrl+Shift+F)
-- Drag tabs to seperate windows
-- Built-in source control for basic tasks
+- [Search all files](https://code.visualstudio.com/docs/editor/codebasics#_search-across-files) (Ctrl + Shift + F)
+- [Keyboard Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+- [Drag tabs to seperate windows](https://code.visualstudio.com/docs/getstarted/userinterface#_tabs)
+- [Built-in source control for basic tasks](https://code.visualstudio.com/docs/editor/versioncontrol#_git-support)
 
 ### Extensions
-- Bracket Pair Colorizer 2
-- GitLens
-- Visual Studio IntelliCode
-- vscode-icons
+- [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
+- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+- [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
+- [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 - Language Specific
-    - Linters (ESLint, stylelint)
-    - Servers (Angular, Ember)
-    - Snippets (Angular, ES6, HTML5)
-- EditorConfig
-- Live Server
+    - [Linters](https://en.wikipedia.org/wiki/Lint_(software)) ([ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint), [stylelint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint))
+    - [Servers](https://langserver.org/) ([Angular](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template), [Ember](https://marketplace.visualstudio.com/items?itemName=emberjs.vscode-ember))
+    - [Snippets](https://en.wikipedia.org/wiki/Snippet_(programming)) ([Angular](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2), [ES6](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets), [HTML5](https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets))
+- [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
 ## [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools)
 
 > #### Web Development Tools
 
 ### Uses
-- Viewing website source code
-- Inspecting HTML/CSS structure
-- Scratchpad for JavaScript
+- Inspecting [HTML](https://developers.google.com/web/tools/chrome-devtools/dom/)/[CSS](https://developers.google.com/web/tools/chrome-devtools/css/) structure
+- [Console for JavaScript](https://developers.google.com/web/tools/chrome-devtools/console)
+- [View Network activity](https://developers.google.com/web/tools/chrome-devtools/network/)
 
 ### Tips
-- Disable cache in Network tab
-- Set to Dark Mode
+- [Disable cache in Network tab](https://stackoverflow.com/a/7000899)
+- [Set to Dark Mode](https://developers.google.com/web/tools/chrome-devtools/customize/dark-theme)
 
 ## [Postman](https://www.getpostman.com/)
 
@@ -61,11 +65,11 @@
 
 ### Uses
 - Testing API's
-- Sending/Receiving API requests
+- [Sending](https://learning.getpostman.com/docs/postman/sending-api-requests/requests/)/[Receiving](https://learning.getpostman.com/docs/postman/sending-api-requests/responses/) API requests
 
 ## [Git](https://git-scm.com/)
 
-- status, checkout, push, pull, fetch, reset
+- [status](https://git-scm.com/docs/git-status), [checkout](https://git-scm.com/docs/git-checkout), [push](https://git-scm.com/docs/git-push), [pull](https://git-scm.com/docs/git-pull), [fetch](https://git-scm.com/docs/git-fetch), [reset](https://git-scm.com/docs/git-reset)
 - [Fork](https://git-fork.com/)
     - Rewording commit messages
     - Squashing commits
@@ -87,18 +91,18 @@
 ## [GitHub](https://github.com/)
 
 - [GitHub Pages](https://pages.github.com/)
-- Issues, Pull Requests, Commits, Branches
+- [Issues](https://help.github.com/en/github/managing-your-work-on-github/about-issues), [Pull Requests](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests), [Commits](https://help.github.com/en/desktop/contributing-to-projects/committing-and-reviewing-changes-to-your-project), [Branches](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-branches)
 
 # JavaScript
 
 - [ECMA](https://en.wikipedia.org/wiki/ECMAScript)
-    - ES5, [ES6](https://github.com/lukehoban/es6features)/ES2015, ... (vanilla, transpile, minify)
+    - [ES5](https://www.w3schools.com/js/js_es5.asp), [ES6](https://github.com/lukehoban/es6features)/ES2015, ... (vanilla, [transpile](https://en.wikipedia.org/wiki/Source-to-source_compiler), [minify](https://en.wikipedia.org/wiki/Minification_(programming)), [polyfill](https://en.wikipedia.org/wiki/Polyfill_(programming)))
 - [Basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks)
     - [Variables](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements#Declarations)/[Assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Assignment_Operators) (var, let, const)
         - [Destructing Assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
         - [Spread Syntax](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
         - [Equality](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness)
-    - [Conditionals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals) (shorthand, else if, else)
+    - [Conditionals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals) ([ternary](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator), else if, else)
     - [Data Types](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures) (objects, arrays, numbers, strings)
         - [Array Methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array#Instance_methods) (concat, find, forEach, includes, push, splice, each, map, filter, reduce)
     - [Functions](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions) (arrow, this, return)
@@ -110,7 +114,7 @@
     - [Underscore](https://underscorejs.org/)/[Lodash](https://lodash.com/)
 - [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming))
     - $.ajax, fetch, XMLHttpRequest
-- [npm](https://www.npmjs.com/)
+- [npm](https://www.npmjs.com/)/[Yarn](https://yarnpkg.com/lang/en/)
     - [Node.js](https://nodejs.org/en/)
 - [Babel](https://babeljs.io/)
 
@@ -135,12 +139,13 @@
 
 - [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 - [Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-- [HTML5](https://en.wikipedia.org/wiki/HTML5) (Semantic)
+- [HTML5](https://en.wikipedia.org/wiki/HTML5) ([Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics#Semantics_in_HTML))
 
 # Web
 
-- [REST](https://en.wikipedia.org/wiki/Representational_state_transfer) (GET, POST, PUT, DELETE, Stateless, Headers)
-- HTTPS (Cors)
+- [REST](https://en.wikipedia.org/wiki/Representational_state_transfer) (GET, POST, PUT, DELETE, [Stateless](https://restfulapi.net/statelessness/))
+- [HTTPS](https://en.wikipedia.org/wiki/HTTPS) ([Headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers))
+- [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 - [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
 
 # Eventual Topics
@@ -148,7 +153,7 @@
 - Database (SQL, NoSQL)
 - PHP/WordPress
 - UX
-- CI
+- CI/CD
 - SEO
 - Webpack
 - Image types (GIF, JPG, PNG, SVG, WEBP)
@@ -159,3 +164,4 @@
 - SSH
 - Docker
 - AWS
+    - [Free tier](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc)
